@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# Ignore .ipynb backup file
+.ipynb_checkpoints/
+
+# Ignore DS Store file
+.DS_Store 
